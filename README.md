@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **liangkuns0226-lgtm/Liangkuns0226-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 #Hello, I am Liangkun Shi I am a senior student who major in data sciense and minor in economics in the Univerwsity of Arizona. 
