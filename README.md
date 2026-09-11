@@ -6,7 +6,7 @@ Interested in applied econometrics, industrial organization, game theory, and th
 
 # **Research and Projects**
 
-1. Empirical Study of the Heterogeneous Effects Financial Channels of Chinese Local Governments..
+1. Empirical Study of the Heterogeneous Effects Financial Channels of Chinese Local Governments
 
 -Provincial panel data, 2016-2025 
 
