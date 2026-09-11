@@ -3,14 +3,23 @@
 <!--
 **liangkuns0226-lgtm/Liangkuns0226-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#Hello, I am Liangkun Shi I am a senior student who major in data sciense and minor in economics in the Univerwsity of Arizona. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in applied econometrics, industrial organization, game theory, and the other use of quantative methods in the different problems 
+
+##Research and Projects 
+###Empirical Study of the Heterogeneous Effects Financial Channels of Chinese Local Government 
+-Provincial panel data, 2016-2025 
+-weights training and two-way fixed effects model 
+-R / fixest 
+
+###A Semi-Supervised Learning Approach to Identifying Undiagnosed Hypertension Risk in aHighly Heterogeneous Population 
+-Cross Sectional data, 2016, 40000+ observations 
+-Positive-unlabled learning, elasistic net, and XGBoost 
+
+
+###Bayesian Joint modelling of Longitudinal Biomarkers and Survival in Patients with Cirrhosis 
+-R / PBC2 dataset -Bayesian Joint modelling and MCMC
+-R / survival, JMBayes2
+
+
