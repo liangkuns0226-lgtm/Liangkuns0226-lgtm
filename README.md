@@ -4,12 +4,12 @@ I am a senior student who major in data science and minor in economics in the Un
 
 Interested in applied econometrics, industrial organization, game theory, and the other use of quantative methods in the different problems
 
-**Research and Projects**
+# **Research and Projects**
 
 ---
 
 
-Empirical Study of the Heterogeneous Effects Financial Channels of Chinese Local Governments..
+## Empirical Study of the Heterogeneous Effects Financial Channels of Chinese Local Governments..
 
 -Provincial panel data, 2016-2025 
 
@@ -17,20 +17,20 @@ Empirical Study of the Heterogeneous Effects Financial Channels of Chinese Local
 
 -R / fixest 
 
-A Semi-Supervised Learning Approach to Identifying Undiagnosed Hypertension Risk in aHighly Heterogeneous Population..
+## A Semi-Supervised Learning Approach to Identifying Undiagnosed Hypertension Risk in aHighly Heterogeneous Population..
 
 -Cross Sectional data, 2016, 40000+ observations 
 
 -Positive-unlabled learning, elasistic net, and XGBoost 
 
 
-Bayesian Joint modelling of Longitudinal Biomarkers and Survival in Patients with Cirrhosis.. 
+## Bayesian Joint modelling of Longitudinal Biomarkers and Survival in Patients with Cirrhosis.. 
 
 -R / PBC2 dataset -Bayesian Joint modelling and MCMC
 
 -R / survival, JMBayes2
 
-**Tools and Skills**
+# **Tools and Skills**
 
 ---
 
