@@ -16,7 +16,6 @@ Interested in applied econometrics, industrial organization, game theory, and th
 -weights training and two-way fixed effects model 
 
 -R / fixest 
-
 ## A Semi-Supervised Learning Approach to Identifying Undiagnosed Hypertension Risk in aHighly Heterogeneous Population..
 
 -Cross Sectional data, 2016, 40000+ observations 
