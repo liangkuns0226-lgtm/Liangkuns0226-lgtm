@@ -12,13 +12,13 @@ Empirical Study of the Heterogeneous Effects Financial Channels of Chinese Local
 
 -weights training and two-way fixed effects model 
 
--R / fixest 
-A Semi-Supervised Learning Approach to Identifying Undiagnosed Hypertension Risk in aHighly Heterogeneous Population..
+-R / fixest
+
+A Semi-Supervised Learning Approach to Identifying Undiagnosed Hypertension Risk in aHighly Heterogeneous Population
 
 -Cross Sectional data, 2016, 40000+ observations 
 
 -Positive-unlabled learning, elasistic net, and XGBoost 
-
 
 Bayesian Joint modelling of Longitudinal Biomarkers and Survival in Patients with Cirrhosis.. 
 
