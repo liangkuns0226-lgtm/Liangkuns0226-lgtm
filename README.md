@@ -28,8 +28,6 @@ Interested in applied econometrics, industrial organization, game theory, and th
 
 # **Tools and Skills**
 
----
-
 -Programming languige: R, Latex
 
 -Skills: Econometrics, machine learning, Bayes modeling and inference.
