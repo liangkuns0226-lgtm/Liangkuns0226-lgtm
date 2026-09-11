@@ -2,9 +2,12 @@
 
 I am a senior student who major in data science and minor in economics in the University of Arizona 
 
-I am interested in applied econometrics, industrial organization, game theory, and the other use of quantative methods in the different problems
+Interested in applied econometrics, industrial organization, game theory, and the other use of quantative methods in the different problems
 
-**Research and Projects**..
+**Research and Projects**
+
+---
+
 
 Empirical Study of the Heterogeneous Effects Financial Channels of Chinese Local Governments..
 
@@ -27,7 +30,9 @@ Bayesian Joint modelling of Longitudinal Biomarkers and Survival in Patients wit
 
 -R / survival, JMBayes2
 
-**Tools and Skills**..
+**Tools and Skills**
+
+---
 
 -Programming languige: R, Latex
 
