@@ -6,7 +6,7 @@ Interested in applied econometrics, industrial organization, game theory, and th
 
 # **Research and Projects**
 
-Empirical Study of the Heterogeneous Effects Financial Channels of Chinese Local Governments..
+1. Empirical Study of the Heterogeneous Effects Financial Channels of Chinese Local Governments..
 
 -Provincial panel data, 2016-2025 
 
@@ -14,13 +14,13 @@ Empirical Study of the Heterogeneous Effects Financial Channels of Chinese Local
 
 -R / fixest
 
-A Semi-Supervised Learning Approach to Identifying Undiagnosed Hypertension Risk in aHighly Heterogeneous Population
+2. A Semi-Supervised Learning Approach to Identifying Undiagnosed Hypertension Risk in aHighly Heterogeneous Population
 
 -Cross Sectional data, 2016, 40000+ observations 
 
 -Positive-unlabled learning, elasistic net, and XGBoost 
 
-Bayesian Joint modelling of Longitudinal Biomarkers and Survival in Patients with Cirrhosis.. 
+3. Bayesian Joint modelling of Longitudinal Biomarkers and Survival in Patients with Cirrhosis.. 
 
 -R / PBC2 dataset -Bayesian Joint modelling and MCMC
 
