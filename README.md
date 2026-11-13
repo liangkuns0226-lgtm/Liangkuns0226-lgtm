@@ -1,34 +1,30 @@
-# Hi there 👋
+# Hi there! 👋
 
-I am a senior student who major in data science and minor in economics in the University of Arizona 
+I am a senior undergraduate student majoring in Data Science and minoring in Economics at the University of Arizona.
 
-Interested in applied econometrics, industrial organization, game theory, and the other use of quantative methods in the different problems
+My academic interests include applied econometrics, industrial organization, game theory, and the application of quantitative methods to problems in economics and other social sciences.
 
-# **Research and Projects**
+## Research and Projects
 
-*Empirical Study of the Heterogeneous Effects Financial Channels of Chinese Local Governments*
+**An Empirical Study of Chinese Local Government Financing Channels and Industrial Structure**
+- Provincial panel data, 2016–2025
+- Investigated the relationship between different government financing channels and industrial structure
+- Methods: Data-driven weight estimation and two-way fixed effects
+- Tools: R, fixest
 
--Provincial panel data, 2016-2025 
+**A Semi-Supervised Learning Approach to Identifying Undiagnosed Hypertension Risk in a Highly Heterogeneous Population**
+- Cross-sectional data, 2016; over 40,000 observations
+- Methods: Positive-unlabeled learning, elastic net, and XGBoost
+- Tools: R
 
--weights training and two-way fixed effects model 
+**Bayesian Joint Modeling of Longitudinal Biomarkers and Survival in Patients with Cirrhosis**
+- Dataset: PBC2
+- Methods: Bayesian joint modeling and Markov chain Monte Carlo (MCMC)
+- Tools: R, survival, JMbayes2
 
--R / fixest
+## Technical Skills
 
-*A Semi-Supervised Learning Approach to Identifying Undiagnosed Hypertension Risk in aHighly Heterogeneous Population*
-
--Cross Sectional data, 2016, 40000+ observations 
-
--Positive-unlabled learning, elasistic net, and XGBoost 
-
-*Bayesian Joint modelling of Longitudinal Biomarkers and Survival in Patients with Cirrhosis*
-
--R / PBC2 dataset -Bayesian Joint modelling and MCMC
-
--R / survival, JMBayes2
-
-# **Tools and Skills**
-
--Programming languige: R, Latex
-
--Skills: Econometrics, machine learning, Bayes modeling and inference.
+- **Programming:** R
+- **Other tools:** LaTeX
+- **Quantitative methods:** Econometrics, machine learning, Bayesian modeling and inference
 
