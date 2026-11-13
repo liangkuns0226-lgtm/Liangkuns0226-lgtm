@@ -5,6 +5,10 @@ I'm a senior undergraduate student majoring in **Data Science** and minoring in 
 
 My academic interests include applied econometrics, industrial organization, game theory, and the application of quantitative methods to problems in economics and other social sciences.
 
+
+📄 **[View My CV](./CV-Liangkun/Shi.pdf)**
+
+
 ## 🔬 Research & Projects
 
 ### 1. Heterogeneous Effects of Local Government Financing Channels on Industrial Structure
