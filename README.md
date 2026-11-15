@@ -25,12 +25,6 @@ My academic interests include applied econometrics, industrial organization, gam
 - **Methods:** Positive-unlabeled learning, elastic net, random forest, XGBoost
 - **Tools:** R
 
-### 3. Bayesian Joint Modeling of Longitudinal Biomarkers and Survival in Patients with Cirrhosis
-
-- **Data:** PBC2 dataset
-- **Methods:** Bayesian joint modeling, Markov chain Monte Carlo (MCMC)
-- **Tools:** R, `survival`, `JMbayes2`
-
 ## 🛠️ Technical Skills
 
 - **Programming:** R, Python
